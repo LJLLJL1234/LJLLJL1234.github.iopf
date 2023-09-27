@@ -5,5 +5,6 @@ Yeah yeah
 
 # Running jekyll locally
 Type 
-```bundle exec jekyll serve
+```
+bundle exec jekyll serve
 ```
